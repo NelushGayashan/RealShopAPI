@@ -1,0 +1,143 @@
+[
+    {
+      "title": "Wireless Mouse",
+      "price": 15.99,
+      "description": "Ergonomic wireless mouse with adjustable DPI.",
+      "image": "https://example.com/mouse.jpg",
+      "category": "Electronics"
+    },
+    {
+      "title": "Bluetooth Speaker",
+      "price": 29.99,
+      "description": "Portable Bluetooth speaker with excellent sound quality.",
+      "image": "https://example.com/speaker.jpg",
+      "category": "Electronics"
+    },
+    {
+      "title": "Smartphone Case",
+      "price": 9.99,
+      "description": "Slim and durable case for smartphones.",
+      "image": "https://example.com/case.jpg",
+      "category": "Accessories"
+    },
+    {
+      "title": "Laptop Stand",
+      "price": 19.99,
+      "description": "Adjustable laptop stand for ergonomic comfort.",
+      "image": "https://example.com/stand.jpg",
+      "category": "Furniture"
+    },
+    {
+      "title": "Desk Organizer",
+      "price": 25.99,
+      "description": "Wooden desk organizer with compartments for pens and papers.",
+      "image": "https://example.com/organizer.jpg",
+      "category": "Office Supplies"
+    },
+    {
+      "title": "Gaming Headset",
+      "price": 49.99,
+      "description": "High-quality gaming headset with noise-canceling microphone.",
+      "image": "https://example.com/headset.jpg",
+      "category": "Electronics"
+    },
+    {
+      "title": "4K Smart TV",
+      "price": 399.99,
+      "description": "55-inch 4K Ultra HD Smart TV with built-in streaming apps.",
+      "image": "https://example.com/tv.jpg",
+      "category": "Electronics"
+    },
+    {
+      "title": "Electric Kettle",
+      "price": 24.99,
+      "description": "Fast-boiling electric kettle with auto shut-off feature.",
+      "image": "https://example.com/kettle.jpg",
+      "category": "Home Appliances"
+    },
+    {
+      "title": "Coffee Maker",
+      "price": 39.99,
+      "description": "Automatic drip coffee maker with programmable settings.",
+      "image": "https://example.com/coffeemaker.jpg",
+      "category": "Home Appliances"
+    },
+    {
+      "title": "Memory Foam Pillow",
+      "price": 19.99,
+      "description": "Ergonomic memory foam pillow for better sleep.",
+      "image": "https://example.com/pillow.jpg",
+      "category": "Furniture"
+    },
+    {
+      "title": "Yoga Mat",
+      "price": 14.99,
+      "description": "Non-slip yoga mat for exercise and stretching.",
+      "image": "https://example.com/yogamat.jpg",
+      "category": "Sports"
+    },
+    {
+      "title": "Gym Dumbbells Set",
+      "price": 29.99,
+      "description": "Adjustable dumbbells set for strength training.",
+      "image": "https://example.com/dumbbells.jpg",
+      "category": "Sports"
+    },
+    {
+      "title": "Portable Power Bank",
+      "price": 22.99,
+      "description": "High-capacity portable power bank for charging devices on the go.",
+      "image": "https://example.com/powerbank.jpg",
+      "category": "Electronics"
+    },
+    {
+      "title": "Smart Watch",
+      "price": 99.99,
+      "description": "Fitness tracker smart watch with heart rate monitoring.",
+      "image": "https://example.com/smartwatch.jpg",
+      "category": "Electronics"
+    },
+    {
+      "title": "Smart Thermostat",
+      "price": 129.99,
+      "description": "Wi-Fi enabled smart thermostat for energy efficiency.",
+      "image": "https://example.com/thermostat.jpg",
+      "category": "Home Appliances"
+    },
+    {
+      "title": "Electric Toothbrush",
+      "price": 39.99,
+      "description": "Rechargeable electric toothbrush with multiple brushing modes.",
+      "image": "https://example.com/toothbrush.jpg",
+      "category": "Health & Beauty"
+    },
+    {
+      "title": "Wireless Earbuds",
+      "price": 29.99,
+      "description": "Noise-cancelling wireless earbuds with long battery life.",
+      "image": "https://example.com/earbuds.jpg",
+      "category": "Electronics"
+    },
+    {
+      "title": "Running Shoes",
+      "price": 49.99,
+      "description": "Breathable running shoes with shock-absorbing sole.",
+      "image": "https://example.com/shoes.jpg",
+      "category": "Fashion"
+    },
+    {
+      "title": "Fitness Tracker",
+      "price": 59.99,
+      "description": "Wearable fitness tracker with step counting and sleep monitoring.",
+      "image": "https://example.com/fitnesstracker.jpg",
+      "category": "Electronics"
+    },
+    {
+      "title": "Instant Pot",
+      "price": 89.99,
+      "description": "Multi-use pressure cooker for fast meals.",
+      "image": "https://example.com/instantpot.jpg",
+      "category": "Home Appliances"
+    }
+  ]
+  
