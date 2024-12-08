@@ -54,7 +54,7 @@ RealShop API is a fully-fledged RESTful service for managing an e-commerce platf
 
 - **Java 23**
 - **Maven** (or Gradle)
-- **IDE**: IntelliJ IDEA, Eclipse, or any preferred IDE
+- **IDE**: IntelliJ IDEA, VS Code, Eclipse, or any preferred IDE
 
 ## Setup
 
