@@ -2,6 +2,28 @@
 
 RealShop API is a fully-fledged RESTful service for managing an e-commerce platform. This application allows for the management of products, cart items, and provides functionalities such as filtering, pagination, and searching. Built with **Spring Boot**, **Spring Data JPA**, and **H2 Database** (or any relational database), it is designed to serve as a backend for a dynamic e-commerce web or mobile application.
 
+## Table of Contents
+1. [Features](#features)
+   - [Product Management](#product-management)
+   - [Cart Management](#cart-management)
+   - [Error Handling](#error-handling)
+2. [Tech Stack](#tech-stack)
+3. [Requirements](#requirements)
+4. [Setup](#setup)
+   - [Clone the Repository](#clone-the-repository)
+   - [Configure Database](#configure-database)
+   - [Build & Run the Application](#build--run-the-application)
+5. [API Endpoints](#api-endpoints)
+   - [Product Endpoints](#product-endpoints)
+   - [Cart Endpoints](#cart-endpoints)
+6. [Request Examples](#request-examples)
+7. [Advanced Setup](#advanced-setup)
+   - [Integrating JWT Authentication (Optional)](#integrating-jwt-authentication-optional)
+   - [Using Swagger for API Documentation](#using-swagger-for-api-documentation)
+8. [Testing](#testing)
+9. [Contribution Guidelines](#contribution-guidelines)
+10. [License](#license)
+
 ## Features
 
 ### Product Management
@@ -22,7 +44,7 @@ RealShop API is a fully-fledged RESTful service for managing an e-commerce platf
 
 ## Tech Stack
 
-- **Backend Framework**: Spring Boot 2.x
+- **Backend Framework**: Spring Boot 3.4.0
 - **Database**: H2 (default for development), MySQL/PostgreSQL (for production environments)
 - **ORM**: Spring Data JPA
 - **Authentication**: Optional (JWT authentication can be added)
@@ -30,7 +52,7 @@ RealShop API is a fully-fledged RESTful service for managing an e-commerce platf
 
 ## Requirements
 
-- **Java 17+**
+- **Java 23**
 - **Maven** (or Gradle)
 - **IDE**: IntelliJ IDEA, Eclipse, or any preferred IDE
 
